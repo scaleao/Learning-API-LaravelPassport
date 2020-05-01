@@ -10,7 +10,7 @@
     <body>
         <div class="row">
             <div class="container border border-secondary rounded col-md-6 mb-3 mt-5">
-                <form method="post" action="">
+                <form method="" action="">
                     <div class="form-group mt-3">
                         <label for="inputname">Nome</label>
                         <input type="text" id="inputname" class="form-control" name="name" placeholder="João Antonio Scaleão Britto" required>
